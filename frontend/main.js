@@ -1,3 +1,4 @@
+//used to call function.
 window.addEventListener('DOMContentLoaded', (event) =>{
 getVisitorCount();
 })
